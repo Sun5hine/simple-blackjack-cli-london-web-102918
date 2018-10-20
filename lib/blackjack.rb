@@ -36,8 +36,8 @@ def hit(number)
   if user_input == "h"
     card_total += deal_card
   elsif user_name == "s"
-  
-    
+  card total
+end    
 end
 
 def invalid_command
