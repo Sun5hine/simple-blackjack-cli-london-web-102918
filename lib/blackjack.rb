@@ -30,8 +30,8 @@ display_card_total(card_total)
 return card_total
 end
 
-def hit?
-  # code hit? here
+def hit(number)
+  
 end
 
 def invalid_command
